@@ -6,7 +6,7 @@
 body{
   background-color: #111624;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  width: 420px;
+  width: 375px;
 }
 
 
@@ -15,8 +15,8 @@ header {
   align-items: center;
   justify-content: space-between;
   height: 180px;
+  width: 375px;
  
-
 }
 
 header .logo {
@@ -30,7 +30,7 @@ header .logo {
 
 .menu {
   width: 30px;
-  margin: 15px 20px 0px 0px;
+  margin: 15px 50px 0px 0px;
 
 }
 
@@ -65,12 +65,13 @@ header .logo {
 
 .container02 img {
   margin-top: -120px;
-  width: 420px;
+  width: 375px;
 }
 
 .container03 {
   display: flex;
   justify-content: center;
+  width: 375px;
 }
 
 .container03 div .icon-coroa {
@@ -123,6 +124,7 @@ header .logo {
   display: flex;
   justify-content: center;
   margin-top: -5px;
+  width: 375px;
 }
 
 .container04 div .icon-estrela {
@@ -209,7 +211,6 @@ header .logo {
 
 .container07 p {
   opacity: 50%;
-  
 }
 
 .container07 span {
@@ -218,7 +219,6 @@ header .logo {
   text-decoration: underline;
   text-decoration-style: dotted;
 }
-
 
 .container08 {
   background-image: url(./img/Mask\ Group\ 01.png);
@@ -241,7 +241,7 @@ header .logo {
 }
 
 .container08 img {
-  width: 420px;
+ width: 375px;
   height: 300px;
 }
 
@@ -279,7 +279,7 @@ header .logo {
   border-radius: 0px 55px 0px 0px;
   background-color: #0F1320;
   height: 550px;
-  width: 420px;
+  width: 375px;
   margin-top: -90px;
   display: flex;
   justify-content: center;
@@ -330,6 +330,7 @@ z-index: 1;
 footer{
   background-color: #0F1320;
   height: 400px;
+  width: 375px;
   display: flex;
   justify-content: center;
   flex-direction: column;
